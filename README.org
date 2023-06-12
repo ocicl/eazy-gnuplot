@@ -1,0 +1,10 @@
+* eazy-gnuplot
+
+Super Duper Doopa Booka Lispy Gnuplot library
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/guicho271828/eazy-gnuplot.git   |
+| commit  | 2eb900f  |
+| systems | eazy-gnuplot |
+|---------+-------------------------------------------|
+
